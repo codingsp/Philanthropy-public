@@ -1,2 +1,2 @@
 # Philanthropy-public
-Research sharing
+Research sharing in support of non-profit and fundraising 
